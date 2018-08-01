@@ -12,7 +12,6 @@ function DNAStrand(dna){
 					break;
 			case "G":
 					return dna = "C";
-					break;
 		}
 	}).join('')
 }
