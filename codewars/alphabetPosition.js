@@ -20,7 +20,7 @@ alphabetPosition.pairs = {
 	U: '21', V: '22', W: '23', X: '24', Y: '25',
 	Z: '26', 
 }
-
+Шрифт Roboto
 //BP 
 function alphabetPosition(text) {
   var result = "";
